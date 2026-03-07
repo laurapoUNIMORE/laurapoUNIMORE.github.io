@@ -1,3 +1,10 @@
 theme: jekyll-theme-minimal
 title: Laura Po Website
 description: Laura Po Personal website
+author:
+  name: Laura Po
+  email: laura.po@unimore.it
+
+url: "https://laurapoUNIMORE.github.io"
+
+markdown: kramdown
