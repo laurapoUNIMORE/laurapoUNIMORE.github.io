@@ -15,22 +15,14 @@ title: Home
 </td>
 <td>
 
-
-Associate Professor  
-
+**Associate Professor**  
 Department of Engineering "Enzo Ferrari"  
-
-University of Modena and Reggio Emilia
-
+University of Modena and Reggio Emilia  
 
 📍 Via Pietro Vivarelli 10, 41125 Modena, Italy  
-
-📧 laura.po [at] unimore.it  
-
-📞 Office: +39 059 205 6255  
-
-📱 Mobile: +39 349 424 0131
-
+📧 laura.po [at] unimore.it   
+📞 Office: +39 059 205 6255   
+📱 Mobile: +39 349 424 0131  
 </td>
 </tr>
 </table>
