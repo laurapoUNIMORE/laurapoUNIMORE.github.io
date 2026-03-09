@@ -17,7 +17,7 @@ title: Home
 
 **Associate Professor**  
 Department of Engineering "Enzo Ferrari"  
-University of Modena and Reggio Emilia  
+[University of Modena and Reggio Emilia](https://www.unimore.it/en)  
 
 📍 Via Pietro Vivarelli 10, 41125 Modena, Italy  
 📧 laura.po [at] unimore.it   
@@ -31,13 +31,10 @@ University of Modena and Reggio Emilia
 
 I am an Associate Professor at the [Department of Engineering “Enzo Ferrari”](https://www.dief.unimore.it/en) at the University of Modena and Reggio Emilia.
 
-I am a member of the Board of the International Doctoral School in ICT of the University of Modena and Reggio Emilia and a member of two Interdepartmental Research Centers at UNIMORE: DHMore on Digital Humanities and AIRI, the Artificial Intelligence Research and Innovation Center.
+I am a member of the Board of the [International Doctoral School in ICT](https://www.ict.unimore.it/) of the University of Modena and Reggio Emilia and a member of two Interdepartmental Research Centers at UNIMORE: [DHMore](https://www.dhmore.unimore.it/) on Digital Humanities and [AIRI](https://www.airi.unimore.it/), the Artificial Intelligence Research and Innovation Center.
 
-I am co-founder and member of the Scientific Committee of DataRiver srl; the Spin-Off designs and develops solutions for data integration using techniques from research in the field of the Semantic Web.
+I am co-founder and member of the Scientific Committee of [DataRiver srl](https://www.datariver.it/en/); the Spin-Off designs and develops solutions for data integration using techniques from research in the field of the Semantic Web.
 
-I wrote more than 80 publications in scientific journals and international conference proceedings.
-
-I received the title of Ph.D. in Computer Engineering and Science from the University of Modena and Reggio Emilia on 13th February 2009. The title of my PhD thesis was “Automatic Lexical Annotation: an effective technique for dynamic data integration”. 
 
 ---
 
