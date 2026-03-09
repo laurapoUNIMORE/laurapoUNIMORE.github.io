@@ -2,3 +2,29 @@
 ---
 
 @import "{{ site.theme }}";
+
+/* Menu di navigazione */
+
+.site-nav {
+  margin-top: 15px;
+  text-align: center;
+    padding-bottom: 10px;
+}
+
+.site-nav a {
+  color: white !important;
+  font-weight: bold;
+  font-size: 18px;
+  margin: 0 18px;
+  text-decoration: none;
+}
+
+.site-nav a:hover {
+  text-decoration: underline;
+  opacity: 0.9;
+}
+
+.site-nav a.active {
+  border-bottom: 3px solid white;
+  padding-bottom: 3px;
+}
