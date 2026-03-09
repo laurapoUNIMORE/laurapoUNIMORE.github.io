@@ -13,7 +13,7 @@ title: Home
 - [Erasmus](erasmus.md)
 
 
----
+
 <table>
 <tr>
 <td width="30%">
@@ -34,7 +34,10 @@ University of Modena and Reggio Emilia
 📧 laura.po [at] unimore.it  
 📞 Office: +39 059 205 6255  
 📱 Mobile: +39 349 424 0131
----
+
+</td>
+</tr>
+</table>
 
 ## About
 
