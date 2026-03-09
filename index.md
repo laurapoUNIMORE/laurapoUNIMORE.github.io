@@ -1,8 +1,19 @@
 ---
-layout: page
+layout: default
 title: Home
 ---
 
+# Laura Po
+
+- [Home](index.md)
+- [Research](research.md)
+- [Teaching](teaching.md)
+- [Projects](projects.md)
+- [CV](CV.md)
+- [Erasmus](erasmus.md)
+
+
+---
 <table>
 <tr>
 <td width="30%">

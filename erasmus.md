@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Erasmus
+layout: default
+title: Home
 ---
 
 # Erasmus Opportunities
